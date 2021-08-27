@@ -1,0 +1,12 @@
+Ericks: 
+ -Problema: automatizar feature engineerings 
+ -Justificativa: não obviedade da desconstrução
+ -Dificuladade: quais novas caracteristicas usar
+ -Literatura: feature engineerings 
+ -Contribuição: SOM(com E.E.) + GAN  
+ -Resultado esperado: desconstruir (explicar) melhor
+ -Implementação e teste: usar técnicas e métricas prontas
+ -Recomendações: Finalizar Programar + Draft prova de conceito
+
+
+#Coevolução
